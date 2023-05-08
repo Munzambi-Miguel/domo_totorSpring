@@ -1,7 +1,7 @@
 # Munzambi Miguel guide
 
--[ ] Inicialização do projeto Spring boot api [ Realizado ]
--[ ] Modelo para usars, roles e user_role [ realizado ] 
+* Inicialização do projeto Spring boot api [ Realizado ]
+* Modelo para usars, roles e user_role [ realizado ] 
 
 
 ## …or push an existing repository from the command line
